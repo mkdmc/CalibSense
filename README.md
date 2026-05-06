@@ -220,6 +220,15 @@ src/util/                          pthread row-band dispatcher
 CMakeLists.txt                     Build script
 ```
 
+## Disclaimers
+
+- This project is independent. It is not affiliated with, endorsed
+  by, or associated with Sony Corporation. "Sony", "Xperia", and
+  "IMX220" are referenced for interoperability purposes only and
+  remain trademarks of their respective owners.
+- The repository contains only original source code. No proprietary
+  firmware, or third-party binaries are distributed.
+
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE)
